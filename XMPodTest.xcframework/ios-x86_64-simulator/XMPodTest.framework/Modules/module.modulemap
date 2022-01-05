@@ -1,0 +1,4 @@
+framework module XMPodTest {
+  header "XMPodTest-Swift.h"
+  requires objc
+}
